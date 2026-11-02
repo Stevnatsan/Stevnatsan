@@ -1,8 +1,8 @@
 <h1 align="center">Steven Nathaniel Santoso</h1>
 
 <p align="center">
-  Data and web developer in Jakarta, Indonesia.<br>
-  Computer Science, Binus University. Former Data Engineering intern at Samsung Research Indonesia.
+  Business Intelligence Analyst at StickEarn, based in Jakarta.<br>
+  I build data pipelines and dashboards for work, and data and web projects on the side.
 </p>
 
 <p align="center">
@@ -16,18 +16,23 @@
 
 ### About me
 
-I studied Computer Science at Binus University with a minor in database technology, and that's where I got hooked on data. Most of my work sits between two things: making sense of data, and building the screens people use to look at it. So you'll find Tableau dashboards and Python notebooks here, but also full web apps and a few interactive experiments.
+I studied Computer Science at Binus University with a minor in database technology, and I've worked in data roles ever since. Right now I'm a BI Analyst at StickEarn, a startup, where I sit close to the founders and the sales, partnerships and operations teams. A lot of my job is figuring out what people actually need to see, then building the pipelines and dashboards that show it.
+
+Outside work I like building things that sit between data and the screen people look at it on, so this profile has a mix of analysis, small ML experiments and interactive web pages.
 
 ### Experience
 
-**ICT Intern, Sampoerna Agro** (from Nov 2024)<br>
-ETL pipelines in Talend for plantation data (yields, harvest schedules, supply chain), SQL work on the reporting databases, and Tableau dashboards for crop yield, workforce and cost KPIs.
+**Business Intelligence Analyst, StickEarn** (Mar 2025 to now)<br>
+Built 10+ Metabase dashboards that ops, sales and partnerships use every day, including a company-wide "business health" view of revenue, margin and campaign execution. Set up pipelines with Airflow, Airbyte and Python into BigQuery, which replaced a lot of manual Google Sheets tracking. Also did geospatial work with Foursquare data (heatmaps, polygons) to find where drivers cluster and suggest billboard spots for clients.
+
+**ICT Intern, Sampoerna Agro** (Nov 2024 to Feb 2025)<br>
+ETL pipelines in Talend for palm oil plantation data like yields, harvest schedules and supply chain, plus SQL work and Tableau dashboards for yield, workforce and cost KPIs.
 
 **Data Engineering Intern, Samsung Research Indonesia** (Mar 2023 to Feb 2024)<br>
-Built frontend features in React for an internal app, including a revamped email feature and a company detail page, and did a lot of bug fixing and testing alongside the backend and design teams.
+Built frontend features in React for an internal app, including a revamped email feature and a company detail page, and spent a good amount of time on bug fixing and testing with the backend and design teams.
 
-**HIMTI Binus, student association** (2021 to 2022)<br>
-Ran events as PIC and helped make exam prep material for other CS students. This is where most of my Java practice and team lead experience came from.
+**HIMTI Binus, CS student association** (2021 to 2022)<br>
+Ran events as PIC and helped make exam prep material for other CS students. Most of my Java practice and team lead experience came from here.
 
 ### What I'm working on
 
@@ -78,9 +83,9 @@ Ran events as PIC and helped make exam prep material for other CS students. This
 
 ### Tools I use
 
-**Data:** Python, Pandas, SQL (MySQL), Tableau, Talend, scikit-learn, Excel<br>
+**Data:** SQL, BigQuery, Python, Pandas, Airflow, Airbyte, Metabase, Tableau, Talend, scikit-learn<br>
 **Web:** JavaScript, React, HTML/CSS, Laravel, Three.js<br>
-**Other:** Git, Docker, GitHub Actions, Java, C
+**Other:** Google Cloud, Git, Docker, GitHub Actions, Java, C
 
 ---
 
