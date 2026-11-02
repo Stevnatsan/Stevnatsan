@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://porto-website-tan.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-porto--website-1f6feb?style=flat-square"></a>
-  <a href="https://drive.google.com/file/d/1d6sErIsN5NYXNXVF9c1jp2Pd7Ddz5rBQ/view"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-2da44e?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/steven-nathaniel-santoso-10338a22a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Steven%20N.%20Santoso-0a66c2?style=flat-square"></a>
-  <a href="mailto:stevnatsan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-stevnatsan%40gmail.com-6e7781?style=flat-square"></a>
+  <a href="https://porto-website-tan.vercel.app/cv/Steven-Nathaniel-Santoso-CV.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/cv-dark.svg"><img alt="Download CV (PDF)" src="assets/buttons/cv-light.svg" height="44"></picture></a>
+  <a href="https://porto-website-tan.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/portfolio-dark.svg"><img alt="Portfolio" src="assets/buttons/portfolio-light.svg" height="44"></picture></a>
+  <a href="https://www.linkedin.com/in/steven-nathaniel-santoso-10338a22a/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/linkedin-dark.svg"><img alt="LinkedIn" src="assets/buttons/linkedin-light.svg" height="44"></picture></a>
+  <a href="mailto:stevnatsan@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/email-dark.svg"><img alt="Email me" src="assets/buttons/email-light.svg" height="44"></picture></a>
 </p>
 
 ---
