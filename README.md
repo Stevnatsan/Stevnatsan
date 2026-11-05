@@ -22,17 +22,55 @@ Outside work I like building things that sit between data and the screen people 
 
 ### Experience
 
-**Business Intelligence Analyst, StickEarn** (Mar 2025 to now)<br>
-Built 10+ Metabase dashboards that ops, sales and partnerships use every day, including a company-wide "business health" view of revenue, margin and campaign execution. Set up pipelines with Airflow, Airbyte and Python into BigQuery, which replaced a lot of manual Google Sheets tracking. Also did geospatial work with Foursquare data (heatmaps, polygons) to find where drivers cluster and suggest billboard spots for clients.
+<table width="100%"><tr><td>
 
-**ICT Intern, Sampoerna Agro** (Nov 2024 to Feb 2025)<br>
-ETL pipelines in Talend for palm oil plantation data like yields, harvest schedules and supply chain, plus SQL work and Tableau dashboards for yield, workforce and cost KPIs.
+<h4>Business Intelligence Analyst · StickEarn</h4>
+<sub>Mar 2025 to now · current role</sub>
 
-**Data Engineering Intern, Samsung Research Indonesia** (Mar 2023 to Feb 2024)<br>
-Built frontend features in React for an internal app, including a revamped email feature and a company detail page, and spent a good amount of time on bug fixing and testing with the backend and design teams.
+- Built 10+ Metabase dashboards that ops, sales and partnerships check every day
+- Made a company-wide "business health" view of revenue, margin and campaign execution
+- Set up pipelines with Airflow, Airbyte and Python into BigQuery, replacing a lot of manual Google Sheets tracking
+- Mapped where drivers cluster with Foursquare data (heatmaps, polygons) to suggest billboard spots for clients
 
-**HIMTI Binus, CS student association** (2021 to 2022)<br>
-Ran events as PIC and helped make exam prep material for other CS students. Most of my Java practice and team lead experience came from here.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/bigquery-dark.svg"><img alt="BigQuery" src="assets/tools/bigquery-light.svg" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/airflow-dark.svg"><img alt="Airflow" src="assets/tools/airflow-light.svg" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/airbyte-dark.svg"><img alt="Airbyte" src="assets/tools/airbyte-light.svg" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/metabase-dark.svg"><img alt="Metabase" src="assets/tools/metabase-light.svg" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/python-dark.svg"><img alt="Python" src="assets/tools/python-light.svg" height="24"></picture>
+
+</td></tr></table>
+
+<table width="100%"><tr><td>
+
+<h4>ICT Intern · Sampoerna Agro</h4>
+<sub>Nov 2024 to Feb 2025</sub>
+
+- Built ETL pipelines in Talend for palm oil plantation data: yields, harvest schedules, supply chain
+- Wrote SQL against the reporting databases and made Tableau dashboards for yield, workforce and cost
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/talend-dark.svg"><img alt="Talend" src="assets/tools/talend-light.svg" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/sql-dark.svg"><img alt="SQL" src="assets/tools/sql-light.svg" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/tableau-dark.svg"><img alt="Tableau" src="assets/tools/tableau-light.svg" height="24"></picture>
+
+</td></tr></table>
+
+<table width="100%"><tr><td>
+
+<h4>Data Engineering Intern · Samsung Research Indonesia</h4>
+<sub>Mar 2023 to Feb 2024</sub>
+
+- Built frontend features in React for an internal app, including a revamped email feature and a company detail page
+- Spent a good amount of time on bug fixing and testing with the backend and design teams
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/react-dark.svg"><img alt="React" src="assets/tools/react-light.svg" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/javascript-dark.svg"><img alt="JavaScript" src="assets/tools/javascript-light.svg" height="24"></picture>
+
+</td></tr></table>
+
+<table width="100%"><tr><td>
+
+<h4>Activist · HIMTI Binus</h4>
+<sub>Sep 2021 to Nov 2022 · CS student association</sub>
+
+- Ran events as PIC and made exam prep material for other CS students
+- Where most of my Java practice and team lead experience came from
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools/java-dark.svg"><img alt="Java" src="assets/tools/java-light.svg" height="24"></picture>
+
+</td></tr></table>
 
 ### What I'm working on
 
